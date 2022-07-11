@@ -1,7 +1,7 @@
 ### Hi there, I'm Karlo.
 
 I've always liked rusty old languages like **C** and **C++**.
-But then I discovered a new language that has even more rust in it - **The Rust 🦀**.
+But then I discovered a new language that has even more rust in it - **The Rust 🦀**
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Rust open source projects**.
