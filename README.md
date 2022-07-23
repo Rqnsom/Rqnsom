@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 
 My username was supposed to be `Random`, but then I managed to mistype it.
 
+[bolkonksy](https://github.com/bolkonksy) is my old Github with ancient C/C++ projects. I wish I hadn't lost my password.
+
 <!--
 **Rqnsom/Rqnsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
